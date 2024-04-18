@@ -1,0 +1,9 @@
+.map {
+  background: white;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 35px;
+  width: 100%;
+  overflow: hidden;
+  height: 250px;
+}

@@ -1,0 +1,33 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
+
+.hero h2 {
+  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(10, 147, 147);
+  letter-spacing: 1px;
+  text-align: center;
+  margin-top: 35px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.hero h2 strong {
+  color: #eba106;
+  font-size: 42px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 900;
+}
+
+@media only screen and (max-width: 768px) {
+  .hero h2 {
+    font-size: 38px;
+  }
+
+  .hero h2 strong {
+    font-size: 30px;
+  }
+}

@@ -1,0 +1,27 @@
+.contact {
+  padding: 25px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 15px;
+}
+
+.mail,
+.phone,
+.address {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  font-size: 14px;
+  color: #333;
+}
+
+.phone {
+  font-size: 15px;
+}
+
+.open {
+  color: goldenrod;
+  font-size: 16px;
+}
