@@ -14,8 +14,3 @@
   text-align: center;
 }
 
-@media only screen and (max-width: 768px) {
-  .adress {
-    margin-top: 175px;
-  }
-}
