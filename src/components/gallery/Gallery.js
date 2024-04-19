@@ -17,7 +17,7 @@ export default function Gallery() {
     <div className="gallery">
       <Swiper
         spaceBetween={10}
-        slidesPerView={3}
+        slidesPerView={1.2}
         navigation={{
           prevEl: ".swiper-button-prev",
           nextEl: ".swiper-button-next",
